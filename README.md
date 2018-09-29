@@ -29,7 +29,7 @@ Please leave this repository open in a browser tab so that you can follow along 
 
 ## Next
 
-Next we will walk through the process of creating a Fork repository and setting up a local clone.
+Next we will walk through the process of creating a GitHub Fork and local clone of this repository.
 
 [Go](/walkthrough/1-setup.md)
 
@@ -43,3 +43,6 @@ Next we will walk through the process of creating a Fork repository and setting 
 - [6. Release Branch](/walkthrough/6-release-branch.md)
 - [7. Release Bugs](/walkthrough/7-release-bugs.md)
 - [8. Completed Release](/walkthrough/8-completed-release.md)
+
+
+Potato
