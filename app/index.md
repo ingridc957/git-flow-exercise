@@ -16,6 +16,8 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 ### [Madame Croque](writer/madame-croque.md) | 
 
+[another madame croque](recipe/feb/mademe-croque.md) |
+
 [Chocolate Soup](recipe/jan/chocolate-soup.md)
 
 ## Last month's favorites
